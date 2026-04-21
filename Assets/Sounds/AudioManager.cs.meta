@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 27d9c9110349f7f4c87bd2c7e65f73d2
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - gameStartClip: {fileID: 8300000, guid: 856675aef2e41a84887fef7e1d1cb725, type: 3}
+  - gameEndClip: {fileID: 8300000, guid: 0782a52a5bd8805459a4fb87262a07c8, type: 3}
+  - coinCollectionClip: {fileID: 8300000, guid: e9f802d426afa68428c5292e9fe7bbe3, type: 3}
+  - playerWallImpactClip: {fileID: 8300000, guid: 71fbd3285e595094186738a25da1add0, type: 3}
+  - footstepsClip: {fileID: 8300000, guid: 34aa439aa2c69f340867b1424c5b808e, type: 3}
+  - coinSpawnClip: {fileID: 8300000, guid: 76b333bc1c6520d48a70932681ad3838, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
